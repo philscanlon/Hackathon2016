@@ -1,8 +1,6 @@
 # Solace Hackathon 2016
 
 
-
-
 ### Theme
 
 
@@ -10,7 +8,7 @@
 
 The hackathon will occur on the 15th december rolling round the world.
 physical/virtual teams in each location will get together to help each other out
-Questions?  Reach out to your SC peers on 
+Questions?  Reach out to your SC peers on the mailing list, or the slack channel
 
 ### Looking for :
 * the master list of the routers  https://github.com/philscanlon/Hackathon2016/blob/master/router-details.md
@@ -20,10 +18,10 @@ Getting started and setup ... https://github.com/philscanlon/Hackathon2016/blob/
 
 ### What can you hack
 
-#### At a bare minimum tyou will need to:
+#### At a bare minimum you will need to:
 1. Get a a VMR running under your account inside of AWS
     * Publish the detais of this to the master list of routers https://github.com/philscanlon/Hackathon2016/blob/master/router-details.md
-2. Connect your router to .....
+2. Connect your router to the rest of the community by setting up .....
 3. Publish your name, location, to a topic .....
 4. Log onto the webex to see your ......
 
