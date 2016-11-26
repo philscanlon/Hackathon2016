@@ -16,8 +16,10 @@ Questions?  Reach out to your SC peers on the mailing list, or the slack channel
 
 ### What you need to do to prepare
 Getting started and setup ... https://github.com/philscanlon/Hackathon2016/blob/master/gettingStarted.md
-The API's : Maven
-Storing your github project
+
+The API's : Maven.
+
+Storing your github project.
 
 ### What can you hack
 
