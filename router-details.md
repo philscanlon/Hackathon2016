@@ -1,4 +1,7 @@
-Record the details of your config here
+
+
+
+Record the details of your config here.
 
 VPN Name: hackathon
 
