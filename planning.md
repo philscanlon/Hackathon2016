@@ -1,11 +1,22 @@
 
+## Team and Roles
+
+Who | Role | Location |
+----|----|----|
+David Wray| Lead EMEA| UK|||
+Emily Hong <Emily.Hong@solace.com> | Lead Americas| New York|
+Vidyadhar Kothekar <Vidyadhar.Kothekar@solace.com> | Lead APAC| Sydney|
+Phil Scanlon <Phil.Scanlon@solace.com> | PM / Support AWS | 
+Aaron Lee <Aaron.Lee@solace.com> | Tech Lead / Network design | 
+
+
 ## Timelines 
 Phase | Activity | Who | When | Notes |
 ----|----|----|----| ---- | -----
 Phase 1 | Setup |Core team | Immediate | |
 Phase 2 | Pilot |  core team + psg support | till 6th Dec ||
 Phase 3 | regional execution | All | 6th till 13th Dec | |
-Phase 4 | Global Demo |  All |  15th Dec | |
+Phase 4 | Global Demo |  All |  15th Dec | 2 hours all SC's online |
 
 ### Setup
 * Define what we aim to accomplish : 
