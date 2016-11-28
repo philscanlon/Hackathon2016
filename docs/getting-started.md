@@ -44,3 +44,8 @@ If you are editing the Markdown (.md) files,there is a cheatsheet here: https://
 * AWS Charges - elastic ip - up to $4/month per ip
 * AWS Charges - t2.medium - up to $8/week if left running
 * AWS Charges - Data transfer rates - to confirm / estimate.  Reccomend no heavy traffic testing between zones etc.
+
+
+## Tools
+github - either the online web based interface, or if you have bigger things in mind, install github desktop and an editor like Atom on the Mac.
+
