@@ -9,9 +9,12 @@ Ready to get started?
 
 ## Where can you get help
 
-Americas - Emily Hong / TBD / TBD
-Asia - Vidya Kothekar / Aaron Lee / Phil Scanlon
-Europe - David Wray / TBD / TBD
+Americas - Emily Hong / TBD / TBD  
+
+Asia - Vidya Kothekar / Aaron Lee / Phil Scanlon  
+
+Europe - David Wray / TBD / TBD  
+
 
 
 
