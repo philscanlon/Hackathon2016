@@ -1,18 +1,20 @@
 # Solace Hackathon 2016
 
+We are bringing the gang together to create a globally connected mesh network based on amazon VMR's.  Along the way we will share some details from our location and showcase these in a webex at the end of the hackathon.
 
 ### Theme
 
-
 ### Vital Statistics
 
-The hackathon will occur on the 15th december rolling round the world.
-physical/virtual teams in each location will get together to help each other out.
+__When:__ The hackathon kicks off during the week of 5th December and will culminate on a global SC Call on the 15th december rolling through the demo around the world.
 
-Questions?  Reach out to your SC peers on the mailing list, or the slack channel
+Regional physical/virtual teams in each location will get together to help each other out and learn along the way.
+
+__Questions?__  Reach out to your SC peers on the mailing list, or the slack channel
 
 ### Looking for :
 * the master list of the routers  https://github.com/philscanlon/Hackathon2016/blob/master/router-details.md
+
 
 ### What you need to do to prepare
 Getting started and setup ... https://github.com/philscanlon/Hackathon2016/blob/master/getting-started.md
