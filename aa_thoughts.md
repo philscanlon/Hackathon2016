@@ -6,5 +6,6 @@
  - Provide JavaScript Solace+Google Maps sample for subscribing to all lat/lon topics, and rendering on map
  - Leave these very simple... it allows people to take and run with ideas, build something extra, port to new language, etc.
  - Each VMR should have a standard read-only CLI account, that we can run the StatsPump against (eventually).  E.g. "stats_ro" or something
- -
+ - Each VMR hostname should have a 3 letter prefix from either the regions it's from, or nearest hub city (e.g. hkg_aaron_sol1)
+ - 
  
