@@ -2,10 +2,10 @@
 
 Ready to get started?  
 
-
-
-
-
+1. Create / Check Accounts.
+2. spin up and configure  a VMR on AWS
+3. Run some samples on your local machine
+4. ...
 
 ## Where can you get help
 
@@ -14,15 +14,8 @@ Asia - Vidya Kothekar / Aaron Lee / Phil Scanlon
 Europe - David Wray / TBD / TBD
 
 
-### create your first VMR in AWS
 
-1. Login to Amazon Web Services AWS using your credentials supplied by IT
-2. Setup an AWS VMI using the guide at  http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
-3. Enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/router-details.md
-
-Setup the samples
-
-## Accounts
+## 1. Accounts
 
 As part of the hackathon you will need to setup and use a couple of accounts.
 
@@ -35,12 +28,15 @@ either with your Solace Account, or your own.
 If you need a crash course check here: https://guides.github.com/activities/hello-world/
 If you are editing the Markdown (.md) files,there is a cheatsheet here: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-### Maven
-if you are accessing the API's .... these are .......
 
-__check with Mark Spielman__
 
-http://search.maven.org/#search%7Cga%7C1%7Csolace -
+## 2. create your first VMR in AWS
+
+1. Login to Amazon Web Services AWS using your credentials supplied by IT
+2. Setup an AWS VMI using the guide at  http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
+3. Enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
+
+
 
 ## Tips
 * AWS supports multiple zones, so when you login, or create an AMI, check you are in the correct region.
