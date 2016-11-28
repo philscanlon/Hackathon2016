@@ -11,7 +11,7 @@ Ready to get started?
 
 Americas - Emily Hong / TBD / TBD  
 
-Asia - Vidya Kothekar / Aaron Lee / Phil Scanlon  
+AsiaPac - Vidya Kothekar / Aaron Lee / Phil Scanlon  
 
 Europe - David Wray / TBD / TBD  
 
