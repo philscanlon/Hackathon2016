@@ -15,7 +15,7 @@ Questions?  Reach out to your SC peers on the mailing list, or the slack channel
 * the master list of the routers  https://github.com/philscanlon/Hackathon2016/blob/master/router-details.md
 
 ### What you need to do to prepare
-Getting started and setup ... https://github.com/philscanlon/Hackathon2016/blob/master/gettingStarted.md
+Getting started and setup ... https://github.com/philscanlon/Hackathon2016/blob/master/getting-started.md
 
 The API's : Maven.
 
