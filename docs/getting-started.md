@@ -42,10 +42,27 @@ Tags
 4. Enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
 
 ## 3. Configure your VMR to join the mesh
+  
+  1. create a VPN named hackathon
+      - Export Subscriptions
+      - Basic Authentication
+      - Internal authentication
+
+2. Create a CSPF neoighbor route to a core server in your region from the lsit. http://docs.solace.com/Features/Multi-Node-Routing.htm
+3. Create a CSPF neighbour rour to your buddy in your region.  as above.
+6. Configure your hostname and routername http://docs.solace.com/Configuring-and-Managing-Routers/Configuring-Host-Names.htm
+7. Have a look at soladmin, and check you are connected
 
 
 ## 4. Run the samples on your local machine
 
+Goal is to publish and subscribe to messages that follow the format: 
+
+1.  download sample from https://github.com/SolaceSamples/
+2.  Modify the publisher to .....
+3.  send a message in your local language as the payload.
+
+If you are not a developer,  dont worry - you can use the completed samples here ....
 
 ## 5. ...
 
