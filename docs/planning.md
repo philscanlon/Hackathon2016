@@ -1,13 +1,13 @@
 
 ## Team and Roles
 
-Who | Role | Location |
-----|----|----|
-David Wray| Lead EMEA| UK|||
-Emily Hong <Emily.Hong@solace.com> | Lead Americas| New York|
-Vidyadhar Kothekar <Vidyadhar.Kothekar@solace.com> | Lead APAC / Support AWS | Sydney|
-Aaron Lee <Aaron.Lee@solace.com> | Tech Lead / Network design | 
-Phil Scanlon <Phil.Scanlon@solace.com> | PM / Support AWS | 
+Nickname | Who | Role | Location |
+----|----|----|----|
+Dre | David Wray <David.Wray@solace.com> | Lead EMEA| UK|||
+M | Emily Hong <Emily.Hong@solace.com> | Lead Americas| New York|
+Video | Vidyadhar Kothekar <Vidyadhar.Kothekar@solace.com> | Lead APAC / Support AWS | Sydney|
+Kiasu | Aaron Lee <Aaron.Lee@solace.com> | Tech Lead / Network design | 
+TBD | Phil Scanlon <Phil.Scanlon@solace.com> | PM / Support AWS | 
 
 
 ## Timelines 
