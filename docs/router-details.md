@@ -14,10 +14,24 @@ VPN Name: `hackathon`
 
 # Link Costs:
 
-Note: should be symmetric
+<b>Note: should be symmetric!!</b>
+How to enforce??
 
 | Between | And | Cost |
 |---------|-----|------|
 | pscanlon-sc | hkgsolaa01 | 30 |
 | hkgsolaa01 | DavidHackathon | 100 |
+
+# Config
+
+Rather than just use the defaults, we could tune a few things... practice!
+
+ - Enable compression on your neighbour links
+   - Ensure port 55003 is exposed in AWS
+ - Tune TCP params:
+   - max-wnd = 1024 (1MB)
+   - initial-cwd = 10
+ - Tune the CSPF NAB queues if you really want
+   - max-length = 40000
+   - min-burst = 500
 
