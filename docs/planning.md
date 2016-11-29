@@ -7,7 +7,7 @@ Dre | David Wray <David.Wray@solace.com> | Lead EMEA| UK|||
 M | Emily Hong <Emily.Hong@solace.com> | Lead Americas| New York|
 Video | Vidyadhar Kothekar <Vidyadhar.Kothekar@solace.com> | Lead APAC / Support AWS | Sydney|
 Kiasu | Aaron Lee <Aaron.Lee@solace.com> | Tech Lead / Network design | Hong Kong
-TBD | Phil Scanlon <Phil.Scanlon@solace.com> | PM / Support AWS | Singapore
+Blanks | Phil Scanlon <Phil.Scanlon@solace.com> | PM / Support AWS | Singapore
 
 
 ## Timelines 
