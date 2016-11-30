@@ -13,6 +13,7 @@ VPN Name: `hackathon`
 | Aaron Lee | Hong Kong | 52.78.245.158 | hkgsolaa01 | AP NE (Seoul) | |
 | Vidyadhar Kothekar | Sydney | 13.54.186.240  | Vidya-VMR-Sydney | Asia Pacific (Sydney) | |
 
+
 # Link Costs:
 
 <b>Note: should be symmetric!!</b>
