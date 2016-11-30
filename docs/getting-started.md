@@ -41,7 +41,7 @@ __Configuration details__
 * The AMI we will use is soltr-7.2.1.616-vmr-cloud-enterprise - __ami-297dde4a__.  You can find this by going to MY AMI's and selecting :
 
 __Ownership__ 
-- [x]Shared with me.
+- [x] Shared with me.
 
 
 3. Setup an AWS VMI using the guide at  http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
