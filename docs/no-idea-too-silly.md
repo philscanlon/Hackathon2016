@@ -9,5 +9,15 @@
   
 *  Hourly / Daily snapshot of the network - see it grow.
   
+## Project suggestions for participants
+
+
+Add some objects to the screen
+
+* A Live tracker of an interesting object - can you plot donald trump on the map?
+
+* Ship or plane tracking (minute by minute)
+
+* 
   
-  
+* Use the data being shared on the mesh in an interesting way
