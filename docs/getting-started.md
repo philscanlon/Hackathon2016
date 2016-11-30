@@ -35,8 +35,11 @@ If you are editing the Markdown (.md) files,there is a cheatsheet here: https://
 2. Select the appropriate AWS Zone before you create your VMR
 
 Note - in the next step some of the defaults will need  to be changed for the Hackathon.
+
 __Configuration details__
-Tags
+* Tags - use your name as the Tag, so you can find your own instances.
+* The AMI we will use is soltr-7.2.1.616-vmr-cloud-enterprise - __ami-297dde4a__.  You can find this by going to MY AMI's and selecting __Ownership__ [x]Shared with me.
+
 
 3. Setup an AWS VMI using the guide at  http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
 4. Enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
