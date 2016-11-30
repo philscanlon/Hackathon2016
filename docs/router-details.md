@@ -11,6 +11,7 @@ VPN Name: `hackathon`
 | Phil Scanlon | Singapore | 52.220.111.223 | pscanlon-sc   | Asia Pacific (Singapore) | |
 | David Wray | London | 52.31.220.231 | DavidHackathon   | EU (Ireland) | |
 | Aaron Lee | Hong Kong | 52.78.245.158 | hkgsolaa01 | AP NE (Seoul) | |
+| Vidyadhar Kothekar | Sydney | 13.54.186.240  | Vidya-VMR-Sydney | Asia Pacific (Sydney) | |
 
 # Link Costs:
 
