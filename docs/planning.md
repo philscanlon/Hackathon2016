@@ -51,6 +51,7 @@ __Section suggestions__
 4 - Show Aaron Demo
 5 - Enterprise Stats view of all the nodes.  Could we use this for seeing whi has published so far?
 
+test
 
 enable / disable some of the core inter-region connections
 Use route weights to show 
