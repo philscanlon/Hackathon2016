@@ -8,7 +8,7 @@ See here for a guide on this process : https://github.com/philscanlon/Hackathon2
 
 ### Core Routers  - DO NOT Change
 
-**Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**CORE Connection 1**|**Core Connection 2**|**Core Connection 3**
+**Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**Core Connection 1**|**Core Connection 2**|**Core Connection 3**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 virginia-core-01|7|Emily| | | | 
 virginia-core-02|7|Emily| | | | 
