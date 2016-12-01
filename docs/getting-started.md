@@ -35,17 +35,29 @@ If you are editing the Markdown (.md) files,there is a cheatsheet here: https://
 ## 2. Create a VMR on Amazon Web Services
 
 1. Login to Amazon Web Services AWS using your credentials supplied by IT
-2. Select the appropriate AWS Zone before you create your VMR
+2. Select the appropriate AWS Zone before you create your VMR (if yo'ure not sure, please contact us... this information will be provided in a spreadsheet)
 
 Note - in the online setup guide  some of the defaults will need to be changed for the Hackathon:
 
-__Configuration details__
+### Method 1
+
+1. Once you've logged in, create an EC2 Instance
+2. On the left toolbar, find "Images" and click AMIs
+3. On the drop-down, select "Private Images"
+4. Select the most recent Enterprise VMR (7.2.1.616)
+
+### Method 2
+
+
 * The AMI we will use is soltr-7.2.1.616-vmr-cloud-enterprise - __ami-297dde4a__.  You can find this by going to MY AMI's and selecting : __Ownership__ 
             - [x] Shared with me.
+            
+### Configuration details
+
 * Tags - use your name as the Tag, so you can find your own instances. Add HAckathon as a Tag so we can easily locate all the hackathon VMR's
 
-3. Setup an AWS VMR using the guide at http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
-4. Once complete, enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
+1. Setup an AWS VMR using the guide at http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
+2. Once complete, enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
 
 ## 3. Configure your VMR to join the mesh
   
