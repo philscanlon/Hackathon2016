@@ -6,7 +6,7 @@ Dont worry about making a mistake - your changes are reviewed before they are ad
 
 See here for a guide on this process : https://github.com/philscanlon/Hackathon2016/blob/master/docs/How-to-add-your-router-details.md
 
-*** Core Routers  - DO NOT Change
+### Core Routers  - DO NOT Change
 
 **Router Name**|**Region Owner**|**Public ip Address**
 :-----:|:-----:|:-----:
@@ -23,7 +23,7 @@ syd-core| |
 mum-core| | 
 sao-core| | 
 
-*** Participant Routers
+### Participant Routers
 
 **Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
