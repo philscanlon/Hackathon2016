@@ -1,9 +1,18 @@
 
 
 
-Record the details of your config here.
+Record the details of your config here.  If you have not used Githob before, there are a number of steps : 
+
+Edit >> Propose Changes >> Create Pull request.
+
+See here for a guide on this process : https://github.com/philscanlon/Hackathon2016/blob/master/docs/How-to-add-your-router-details.md
+
 
 VPN Name: `hackathon`
+Participant Router Name
+
+AWSRegion_HomeCity_
+
 
 | Name | Location  | Router_IP  |  RouterName |AWS Region | Notes  |
 |------|-----------|------------|-------------|--------|----------|
