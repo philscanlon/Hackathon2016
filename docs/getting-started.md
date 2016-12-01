@@ -25,7 +25,7 @@ You should have received a mail from IT with your solace AWS access credentials.
 
 The Solace login landing page for AWS is here https://sol-aws-se.signin.aws.amazon.com/console
 
-Once you login, be sure to select the nearest home region.
+_Once you login, be sure to select the nearest home region._
 
 ### github
 Create an account on Github either with your Solace email, or your own.
@@ -57,27 +57,30 @@ Note - in the online setup guide  some of the defaults will need to be changed f
 * Tags - use your name as the Tag, so you can find your own instances. Add HAckathon as a Tag so we can easily locate all the hackathon VMR's
 
 1. Setup an AWS VMR using the guide at http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
-2. Once complete, enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
+2. Create an ElasticIP, and bind that to your VMR instance
+3. Once complete, enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
 
 ## 3. Configure your VMR to join the mesh
-  
-  1. create a VPN named hackathon
-      - Export Subscriptions
-      - Basic Authentication
-      - Internal authentication
 
-2. Create a CSPF neighbor route to a core server in your region from the list. http://docs.solace.com/Features/Multi-Node-Routing.htm
-3. Create a CSPF neighbor rour to your buddy in your region.  as above.
-6. Configure your hostname and routername http://docs.solace.com/Configuring-and-Managing-Routers/Configuring-Host-Names.htm
-7. Have a look at soladmin, and check you are connected
+1. Rename the hostname of your VMR, following the naming convention supplied to you (TBD)
+    - http://docs.solace.com/Configuring-and-Managing-Routers/Configuring-Host-Names.htm
+2. Create a global admin CLI user for you to use (don't use 'admin')... this would usually be your typical account name
+3. Create a global read-only CLI user, username='ro', password='hackathon'
+4. Create a Message VPN named 'hackathon'
+    - Export Subscriptions
+    - Basic Authentication --> Internal authentication
+5. Create a client-username to use, set the password (remember it!), and enable it
+6. Create a CSPF neighbor route to a core server in your region from the list. http://docs.solace.com/Features/Multi-Node-Routing.htm
+7. Create a CSPF neighbor rour to your buddy in your region.  as above.
+8. Using SolAdmin, connect to either your public IP or ElasticIP address
 
 
 ## 4. Run the samples on your local machine
 
 Goal is to publish and subscribe to messages that follow the format: 
 
-topicname : topic/geo
-content : {"lat":"22.123456","lng":"118.123456","name":"Test"}
+'topicname : topic/geo`  
+`content : {"lat":"22.123456","lng":"118.123456","name":"Test"}'  
 
 1.  download sample from https://github.com/SolaceSamples/
 2.  Modify the publisher to .....
