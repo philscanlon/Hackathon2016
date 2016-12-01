@@ -1,52 +1,29 @@
+Record the details of your config in the table below.  If you have not used Github before, there are a number of steps : 
 
+Edit file >> Click 'Propose Changes' >> Click 'Create Pull request'
 
-
-Record the details of your config here.  If you have not used Githob before, there are a number of steps : 
-
-Edit >> Propose Changes >> Create Pull request.
+Dont worry about making a mistake - your changes are reviewed before they are added into the master version.
 
 See here for a guide on this process : https://github.com/philscanlon/Hackathon2016/blob/master/docs/How-to-add-your-router-details.md
 
+*** Core Routers  - DO NOT Change
 
-VPN Name: `hackathon`
-Participant Router Name
+**Router Name**|**Region Owner**|**Public ip Address**
+:-----:|:-----:|:-----:
+nov-core| | 
+ohi-core| | 
+cal-core| | 
+org-core| | 
+ire-core| | 
+frk-core| | 
+tky-core| | 
+seo-core| | 
+sgp-core| Phil Scanlon | 52.220.157.193
+syd-core| | 
+mum-core| | 
+sao-core| | 
 
-AWSRegion_HomeCity_
-
-
-| Name | Location  | Router_IP  |  RouterName |AWS Region | Notes  |
-|------|-----------|------------|-------------|--------|----------|
-| Aaron Lee | Hong Kong | 52.78.245.158 | hkgsolaa01 | AP NE (Seoul) | |
-| David Wray | London | 52.31.220.231 | DavidHackathon   | EU (Ireland) | |
-| Phil Scanlon | Singapore | 52.77.102.138  | hackathon-singapore-vmr | Asia Pacific (Singapore) | |
-| Phil Scanlon | Singapore | 52.220.111.223 | pscanlon-vmr   | Asia Pacific (Singapore) | |
-| Sumeet Koshal | Singapore | 52.220.165.194 | sumeet-vmr   | Asia Pacific (Singapore) | |
-| Vidyadhar Kothekar | Sydney | 13.54.186.240  | Vidya-VMR-Sydney | Asia Pacific (Sydney) | |
-
-
-# Link Costs:
-
-<b>Note: should be symmetric!!</b>
-How to enforce??
-
-| Between | And | Cost |
-|---------|-----|------|
-| pscanlon-vmr | hkgsolaa01 | 30 |
-| hkgsolaa01 | DavidHackathon | 100 |
-
-# Config
-
-Rather than just use the defaults, we could tune a few things... practice!
-
- - Enable compression on your neighbour links
-   - Ensure port 55003 is exposed in AWS
- - Tune TCP params:
-   - max-wnd = 1024 (1MB)
-   - initial-cwd = 10
- - Tune the CSPF NAB queues if you really want
-   - max-length = 40000
-   - min-burst = 500
-
+*** Participant Routers
 
 **Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
@@ -96,5 +73,41 @@ Manuel Moreno|South America (São Paulo)|sao-mmoreno| |SAO-CORE|
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |CAL-CORE| 
 Dale Baik|US West (Oregon)|org-dbaik| |ORG-CORE| 
 Andrew Broome|US West (Oregon)|org-abroome| |ORG-CORE| 
+
+
+
+| Name | Location  | Router_IP  |  RouterName |AWS Region | Notes  |
+|------|-----------|------------|-------------|--------|----------|
+| Aaron Lee | Hong Kong | 52.78.245.158 | hkgsolaa01 | AP NE (Seoul) | |
+| David Wray | London | 52.31.220.231 | DavidHackathon   | EU (Ireland) | |
+| Phil Scanlon | Singapore | 52.77.102.138  | hackathon-singapore-vmr | Asia Pacific (Singapore) | |
+| Phil Scanlon | Singapore | 52.220.111.223 | pscanlon-vmr   | Asia Pacific (Singapore) | |
+| Sumeet Koshal | Singapore | 52.220.165.194 | sumeet-vmr   | Asia Pacific (Singapore) | |
+| Vidyadhar Kothekar | Sydney | 13.54.186.240  | Vidya-VMR-Sydney | Asia Pacific (Sydney) | |
+
+
+# Link Costs:
+
+<b>Note: should be symmetric!!</b>
+How to enforce??
+
+| Between | And | Cost |
+|---------|-----|------|
+| pscanlon-vmr | hkgsolaa01 | 30 |
+| hkgsolaa01 | DavidHackathon | 100 |
+
+# Config
+
+Rather than just use the defaults, we could tune a few things... practice!
+
+ - Enable compression on your neighbour links
+   - Ensure port 55003 is exposed in AWS
+ - Tune TCP params:
+   - max-wnd = 1024 (1MB)
+   - initial-cwd = 10
+ - Tune the CSPF NAB queues if you really want
+   - max-length = 40000
+   - min-burst = 500
+
 
 
