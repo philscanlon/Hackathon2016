@@ -24,55 +24,52 @@ mum-core| |
 sao-core| | 
 
 ### Participant Routers - Enter your details below against your name
+**Region Group**|**Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+01|Amit Gothecha|Asia Pacific (Mumbai)|mum-agothecha| |mumbai-core-01| 
+01|Andrew Broome|US West (Oregon)|org-abroome| |oregon-core-01| 
+01|Arghya Sanyal|Asia Pacific (Mumbai)|mum-asanyal| |mumbai-core-01| 
+01|Benjamin Taieb|EU (Ireland)|ire-btaieb| |ireland-core-01| 
+01|Christian Holtfurth|EU (Ireland)|ire-choltfurth| |ireland-core-01| 
+01|Clarence Ching|Asia Pacific (Seoul)|seo-cching| |seoul-core-01| 
+01|Dale Baik|US West (Oregon)|org-dbaik| |oregon-core-01| 
+01|David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |virginia-core-01| 
+01|David Wray|EU (Ireland)|ire-dwray| |ireland-core-01| 
+01|Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |virginia-core-01| 
+01|Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |singapore-core-01| 
+01|Eric Sun|Asia Pacific (Singapore)|sgp-esun| |singapore-core-01| 
+01|Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon| |seoul-core-01| 
+01|Floyd Davis|US East (N. Virginia)|nov-fdavis| |virginia-core-01| 
+01|Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohio-core-01| 
+01|Ifoma Smart|US East (Ohio)|ohi-ismart| |ohio-core-01| 
+01|Jet Huang|Asia Pacific (Seoul)|seo-jhuang| |seoul-core-01| 
+01|Jim Lowe|US East (N. Virginia)|nov-jlowe| |virginia-core-01| 
+01|John Filo|Asia Pacific (Sydney)|syd-jfilo| |sydney-core-01| 
+01|Ken Barr|US East (N. Virginia)|nov-kbarr| |virginia-core-01| 
+02|Ken Overton|US East (N. Virginia)|nov-koverton| |virginia-core-02| 
+01|Luis Horna|US East (N. Virginia)|nov-lhorna| |virginia-core-01| 
+01|Magali Boulet|EU (Frankfurt)|frk-mboulet| |frankfurt-core-01| 
+01|Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohio-core-01| 
+01|Manuel Moreno|South America (São Paulo)|sao-mmoreno| |saopaulo-core-01| 
+01|Mark Spielman|US East (N. Virginia)|nov-mspielman| |virginia-core-01| 
+01|Mathew Hobbis|EU (Ireland)|ire-mhobbis| |ireland-core-01| 
+01|Matthew Stobo|US East (Ohio)|ohi-mstobo| |ohio-core-01| 
+01|Michael Hilmen|US West (N. California)|cal-mhilmen| |ncaliforina-core-01| 
+01|Naomoto Matsuki|Asia Pacific (Tokyo)|tky-nmatsuki| |tokyo-core-01| 
+01|Perry Krol|EU (Frankfurt)|frk-pkrol| |frankfurt-core-01| 
+01|Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohio-core-01| 
+01|Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |ncaliforina-core-01| 
+01|Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |singapore-core-01| 
+01|Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohio-core-01| 
+02|Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |virginia-core-02| 
+01|Steve Chan|Asia Pacific (Singapore)|sgp-schan| |singapore-core-01| 
+01|Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |singapore-core-01| 
+01|Tom Fairbairn|EU (Ireland)|ire-tfairbairn| |ireland-core-01| 
+02|Tom O'Leary|US East (N. Virginia)|nov-to'leary| |virginia-core-02| 
+01|Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seoul-core-01| 
+02|Wayne Osse|US East (N. Virginia)|nov-wosse| |virginia-core-02| 
+02|Wayne Sang|US East (N. Virginia)|nov-wsang| |virginia-core-02| 
 
-**Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-Amit Gothecha|Asia Pacific (Mumbai)|mum-agothecha| |MUM-CORE| 
-Arghya Sanyal|Asia Pacific (Mumbai)|mum-asanyal| |MUM-CORE| 
-Clarence Ching|Asia Pacific (Seoul)|seo-cching| |SEO-CORE| 
-Jet Huang|Asia Pacific (Seoul)|seo-jhuang| |SEO-CORE| 
-Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |SEO-CORE| 
-Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon| |SEO-CORE| 
-Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |SGP-CORE| 
-Steve Chan|Asia Pacific (Singapore)|sgp-schan| |SGP-CORE| 
-Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |SGP-CORE| 
-Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |SGP-CORE| 
-Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan| |SGP-CORE| 
-Eric Sun|Asia Pacific (Singapore)|sgp-esun| |SGP-CORE| 
-John Filo|Asia Pacific (Sydney)|syd-jfilo| |SYD-CORE| 
-Naomoto Matsuki|Asia Pacific (Tokyo)|tky-nmatsuki| |TKY-CORE| 
-Magali Boulet|EU (Frankfurt)|frk-mboulet| |FRK-CORE| 
-Perry Krol|EU (Frankfurt)|frk-pkrol| |FRK-CORE| 
-Tom Fairbairn|EU (Ireland)|ire-tfairbairn| |IRE-CORE| 
-Mathew Hobbis|EU (Ireland)|ire-mhobbis| |IRE-CORE| 
-Christian Holtfurth|EU (Ireland)|ire-choltfurth| |IRE-CORE| 
-Benjamin Taieb|EU (Ireland)|ire-btaieb| |IRE-CORE| 
-Paul Woodward|EU (Ireland)|ire-pwoodward| |IRE-CORE| 
-David Wray|EU (Ireland)|ire-dwray| |IRE-CORE| 
-Ken Barr|US East (N. Virginia)|nov-kbarr| |NOV-CORE-A| 
-Floyd Davis|US East (N. Virginia)|nov-fdavis| |NOV-CORE-A| 
-Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |NOV-CORE-A| 
-Luis Horna|US East (N. Virginia)|nov-lhorna| |NOV-CORE-A| 
-Mark Spielman|US East (N. Virginia)|nov-mspielman| |NOV-CORE-A| 
-Dishant Langayan|US East (N. Virginia)|nov-dlangayan| |NOV-CORE-A| 
-Jim Lowe|US East (N. Virginia)|nov-jlowe| |NOV-CORE-A| 
-Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |NOV-CORE-B| 
-Tom O'Leary|US East (N. Virginia)|nov-to'leary| |NOV-CORE-B| 
-Wayne Osse|US East (N. Virginia)|nov-wosse| |NOV-CORE-B| 
-Ken Overton|US East (N. Virginia)|nov-koverton| |NOV-CORE-B| 
-David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |NOV-CORE-B| 
-Wayne Sang|US East (N. Virginia)|nov-wsang| |NOV-CORE-B| 
-Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |OHI-CORE| 
-Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |OHI-CORE| 
-Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |OHI-CORE| 
-Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |OHI-CORE| 
-Ifoma Smart|US East (Ohio)|ohi-ismart| |OHI-CORE| 
-Matthew Stobo|US East (Ohio)|ohi-mstobo| |OHI-CORE| 
-Michael Hilmen|US West (N. California)|cal-mhilmen| |CAL-CORE| 
-Manuel Moreno|South America (São Paulo)|sao-mmoreno| |SAO-CORE| 
-Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |CAL-CORE| 
-Dale Baik|US West (Oregon)|org-dbaik| |ORG-CORE| 
-Andrew Broome|US West (Oregon)|org-abroome| |ORG-CORE| 
 
 
 
