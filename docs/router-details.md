@@ -1,6 +1,6 @@
-Record the details of your router configuration in the table below.  If you have not used Github before, there are a number of steps to propose a change to this file : 
+Record the details of your router configuration in the table below.  If you have not used Github before, there are a number of steps to propose a change to this file:
 
-__ Edit file >> Click 'Propose Changes' >> Click 'Create Pull request' __
+__Edit file >> Click 'Propose Changes' >> Click 'Create Pull request'__
 
 Dont worry about making a mistake - your changes are reviewed before they are added into the master version.  If your change is not reflected within 12 hours, please contact your regional Lead.  __The most common mistake is skipping the last step: 'Create Pull Request'.__
 
