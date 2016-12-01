@@ -23,7 +23,7 @@ syd-core| |
 mum-core| | 
 sao-core| | 
 
-### Participant Routers
+### Participant Routers - Enter your details below against your name
 
 **Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
