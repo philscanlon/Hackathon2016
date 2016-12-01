@@ -18,6 +18,6 @@ Add some objects to the screen
 
 * Ship or plane tracking (minute by minute)
 
-* 
+* Pull ingress and egress stats from the core routers and display on a chart, colour the links according to the amount of traffic flowing
   
 * Use the data being shared on the mesh in an interesting way
