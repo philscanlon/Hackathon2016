@@ -1,8 +1,8 @@
 Record the details of your router configuration in the table below.  If you have not used Github before, there are a number of steps to propose a change to this file : 
 
-Edit file >> Click 'Propose Changes' >> Click 'Create Pull request'
+__ Edit file >> Click 'Propose Changes' >> Click 'Create Pull request' __
 
-Dont worry about making a mistake - your changes are reviewed before they are added into the master version.  If your change is not reflected within 12 hours, please contact your regional Lead.  The most common mistake is skipping the ast step: 'Create Pull Request'.
+Dont worry about making a mistake - your changes are reviewed before they are added into the master version.  If your change is not reflected within 12 hours, please contact your regional Lead.  __The most common mistake is skipping the last step: 'Create Pull Request'.__
 
 See here for a guide on this process : https://github.com/philscanlon/Hackathon2016/blob/master/docs/How-to-add-your-router-details.md
 
