@@ -10,15 +10,16 @@ See here for a guide on this process : https://github.com/philscanlon/Hackathon2
 
 **Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**Core Connection 1**|**Core Connection 2**|**Core Connection 3**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-virginia-core-01|7|Emily| | | | 
-virginia-core-02|7|Emily| | | | 
-seoul-core-01|6|Aaron| | | | 
-ohio-core-01|5|Dishant| | | | 
-ireland-core-01|5|David| | | | 
-ncaliforina-core-01|4|Dishant| | | | 
-frankfurt-core-01|4|David| | | | 
-singapore-core-01|4|Phil| 52.220.157.193 | | | 
-sydney-core-01|1|Vidhya| | | | 
+nov-core-01|7|Emily| | | | 
+nov-core-02|7|Emily| | | | 
+seo-core-01|6|Aaron| | | | 
+ohi-core-01|5|Dishant| | | | 
+ire-core-01|5|David| | | | 
+cal-core-01|4|Dishant| | | | 
+frk-core-01|4|David| | | | 
+sgp-core-01|4|Phil| | | | 
+syd-core-01|1|Vidhya| | | | 
+
 
 ### Participant Routers - Enter your details below against your name
 
@@ -28,49 +29,49 @@ Note - We have not put core routers in all the regions.   Your router that you c
 
 **Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-Amit Gothecha|EU (Frankfurt)|frk-agothecha| |frankfurt-core-01| 
-Andrew Broome|US East (N. Virginia)|nov-abroome| |virginia-core-01| 
-Arghya Sanyal|EU (Frankfurt)|frk-asanyal| |frankfurt-core-01| 
-Benjamin Taieb|EU (Ireland)|ire-btaieb| |ireland-core-01| 
-Christian Holtfurth|EU (Ireland)|ire-choltfurth| |ireland-core-01| 
-Clarence Ching|Asia Pacific (Seoul)|seo-cching| |seoul-core-01| 
-Dale Baik|US West (N. California)|cal-dbaik| |ncaliforina-core-01| 
-David Wray|EU (Ireland)|ire-dwray| |ireland-core-01| 
-David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |virginia-core-01| 
-Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |virginia-core-01| 
-Eric Sun|Asia Pacific (Seoul)|seo-esun| |seoul-core-01| 
-Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |singapore-core-01| 
-Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon| |seoul-core-01| 
-Floyd Davis|US East (N. Virginia)|nov-fdavis| |virginia-core-01| 
-Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohio-core-01| 
-Ifoma Smart|US East (N. Virginia)|nov-ismart| |virginia-core-01| 
-Jet Huang|Asia Pacific (Seoul)|seo-jhuang| |seoul-core-01| 
-Jim Lowe|US East (N. Virginia)|nov-jlowe| |virginia-core-01| 
-John Filo|Asia Pacific (Sydney)|syd-jfilo| |sydney-core-01| 
-Ken Barr|US East (N. Virginia)|nov-kbarr| |virginia-core-02| 
-Ken Overton|US East (N. Virginia)|nov-koverton| |virginia-core-02| 
-Luis Horna|US East (N. Virginia)|nov-lhorna| |virginia-core-01| 
-Magali Boulet|EU (Frankfurt)|frk-mboulet| |frankfurt-core-01| 
-Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohio-core-01| 
-Manuel Moreno|US West (N. California)|cal-mmoreno| |ncaliforina-core-01| 
-Mark Spielman|US East (N. Virginia)|nov-mspielman| |virginia-core-02| 
-Mathew Hobbis|EU (Ireland)|ire-mhobbis| |ireland-core-01| 
-Matthew Stobo|US East (Ohio)|ohi-mstobo| |ohio-core-01| 
-Michael Hilmen|US West (N. California)|cal-mhilmen| |ncaliforina-core-01| 
-Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki| |seoul-core-01| 
-Perry Krol|EU (Frankfurt)|frk-pkrol| |frankfurt-core-01| 
-Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohio-core-01| 
-Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |ncaliforina-core-01| 
-Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |singapore-core-01| 
-Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohio-core-01| 
-Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |virginia-core-02| 
-Steve Chan|Asia Pacific (Singapore)|sgp-schan| |singapore-core-01| 
-Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |singapore-core-01| 
-Tom Fairbairn|EU (Ireland)|ire-tfairbairn| |ireland-core-01| 
-Tom O'Leary|US East (N. Virginia)|nov-to'leary| |virginia-core-02| 
-Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seoul-core-01| 
-Wayne Osse|US East (N. Virginia)|nov-wosse| |virginia-core-02| 
-Wayne Sang|US East (N. Virginia)|nov-wsang| |virginia-core-02| 
+Amit Gothecha|EU (Frankfurt)|frk-agothecha| |frk-core-01| 
+Andrew Broome|US East (N. Virginia)|nov-abroome| |nov-core-01| 
+Arghya Sanyal|EU (Frankfurt)|frk-asanyal| |frk-core-01| 
+Benjamin Taieb|EU (Ireland)|ire-btaieb| |ire-core-01| 
+Christian Holtfurth|EU (Ireland)|ire-choltfurth| |ire-core-01| 
+Clarence Ching|Asia Pacific (Seoul)|seo-cching| |seo-core-01| 
+Dale Baik|US West (N. California)|cal-dbaik| |cal-core-01| 
+David Wray|EU (Ireland)|ire-dwray| |ire-core-01| 
+David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
+Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
+Eric Sun|Asia Pacific (Seoul)|seo-esun| |seo-core-01| 
+Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |sgp-core-01| 
+Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon| |seo-core-01| 
+Floyd Davis|US East (N. Virginia)|nov-fdavis| |nov-core-01| 
+Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
+Ifoma Smart|US East (N. Virginia)|nov-ismart| |nov-core-01| 
+Jet Huang|Asia Pacific (Seoul)|seo-jhuang| |seo-core-01| 
+Jim Lowe|US East (N. Virginia)|nov-jlowe| |nov-core-01| 
+John Filo|Asia Pacific (Sydney)|syd-jfilo| |syd-core-01| 
+Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
+Ken Overton|US East (N. Virginia)|nov-koverton| |nov-core-02| 
+Luis Horna|US East (N. Virginia)|nov-lhorna| |nov-core-01| 
+Magali Boulet|EU (Frankfurt)|frk-mboulet| |frk-core-01| 
+Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
+Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
+Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
+Mathew Hobbis|EU (Ireland)|ire-mhobbis| |ire-core-01| 
+Matthew Stobo|US East (Ohio)|ohi-mstobo| |ohi-core-01| 
+Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
+Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki| |seo-core-01| 
+Perry Krol|EU (Frankfurt)|frk-pkrol| |frk-core-01| 
+Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
+Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
+Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
+Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
+Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02| 
+Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
+Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
+Tom Fairbairn|EU (Ireland)|ire-tfairbairn| |ire-core-01| 
+Tom O'Leary|US East (N. Virginia)|nov-to'leary| |nov-core-02| 
+Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seo-core-01| 
+Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
+Wayne Sang|US East (N. Virginia)|nov-wsang| |nov-core-02| 
 
 # Link Costs:
 
