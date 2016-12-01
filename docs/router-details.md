@@ -1,29 +1,34 @@
-Record the details of your config in the table below.  If you have not used Github before, there are a number of steps : 
+Record the details of your router configuration in the table below.  If you have not used Github before, there are a number of steps to propose a change to this file : 
 
 Edit file >> Click 'Propose Changes' >> Click 'Create Pull request'
 
-Dont worry about making a mistake - your changes are reviewed before they are added into the master version.
+Dont worry about making a mistake - your changes are reviewed before they are added into the master version.  If your change is not reflected within 12 hours, please contact your regional Lead.  The most common mistake is skipping the ast step: 'Create Pull Request'.
 
 See here for a guide on this process : https://github.com/philscanlon/Hackathon2016/blob/master/docs/How-to-add-your-router-details.md
 
 ### Core Routers  - DO NOT Change
 
-**Router Name**|**Region Owner**|**Public ip Address**
-:-----:|:-----:|:-----:
-nov-core| | 
-ohi-core| | 
-cal-core| | 
-org-core| | 
-ire-core| | 
-frk-core| | 
-tky-core| | 
-seo-core| | 
-sgp-core| Phil Scanlon | 52.220.157.193
-syd-core| | 
-mum-core| | 
-sao-core| | 
+**Router Name**|**Region Owner**|**Public ip Address**|**Connected Participants**
+:-----:|:-----:|:-----:|:-----:
+virginia-core-01|Emily| |17
+ohio-core-01|Emily| |8
+ncaliforina-core-01|Emily| |5
+oregon-core-01|Emily| |0
+ireland-core-01|David| |7
+frankfurt-core-01|David| |4
+tokyo-core-01| | |0
+seoul-core-01|Aaron| |7
+singapore-core-01|Phil|52.220.157.193 |7
+sydney-core-01|Vidyha| |2
+mumbai-core-01| | |0
+saopaulo-core-01| | |0
 
 ### Participant Routers - Enter your details below against your name
+
+Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
+
+Note - We have not put core routers in all the regions.   Your router that you create and and the routers you mesh with do not have to be in the same AWS region.
+
 **Region Group**|**Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 01|Amit Gothecha|Asia Pacific (Mumbai)|mum-agothecha| |mumbai-core-01| 
@@ -69,18 +74,6 @@ sao-core| |
 01|Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seoul-core-01| 
 02|Wayne Osse|US East (N. Virginia)|nov-wosse| |virginia-core-02| 
 02|Wayne Sang|US East (N. Virginia)|nov-wsang| |virginia-core-02| 
-
-
-
-
-| Name | Location  | Router_IP  |  RouterName |AWS Region | Notes  |
-|------|-----------|------------|-------------|--------|----------|
-| Aaron Lee | Hong Kong | 52.78.245.158 | hkgsolaa01 | AP NE (Seoul) | |
-| David Wray | London | 52.31.220.231 | DavidHackathon   | EU (Ireland) | |
-| Phil Scanlon | Singapore | 52.77.102.138  | hackathon-singapore-vmr | Asia Pacific (Singapore) | |
-| Phil Scanlon | Singapore | 52.220.111.223 | pscanlon-vmr   | Asia Pacific (Singapore) | |
-| Sumeet Koshal | Singapore | 52.220.165.194 | sumeet-vmr   | Asia Pacific (Singapore) | |
-| Vidyadhar Kothekar | Sydney | 13.54.186.240  | Vidya-VMR-Sydney | Asia Pacific (Sydney) | |
 
 
 # Link Costs:
