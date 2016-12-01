@@ -12,7 +12,7 @@ See here for a guide on this process : https://github.com/philscanlon/Hackathon2
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 nov-core-01|7|Emily| | | | 
 nov-core-02|7|Emily| | | | 
-seo-core-01|6|Aaron| | | | 
+seo-core-01|6|Aaron|52.78.245.158|sgp-core-01|ire-core-01|ohi-core-01
 ohi-core-01|5|Dishant| | | | 
 ire-core-01|5|David| | | | 
 cal-core-01|4|Dishant| | | | 
