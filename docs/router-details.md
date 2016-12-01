@@ -59,7 +59,7 @@ Mathew Hobbis|EU (Ireland)|ire-mhobbis| |ire-core-01|
 Matthew Stobo|US East (Ohio)|ohi-mstobo| |ohi-core-01| 
 Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki| |seo-core-01| 
-Perry Krol|EU (Frankfurt)|frk-pkrol| |frk-core-01| 
+Perry Krol|EU (Ireland)|ire-pkrol| |ire-core-01| 
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
@@ -67,7 +67,7 @@ Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01|
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
-Tom Fairbairn|EU (Ireland)|ire-tfairbairn| |ire-core-01| 
+Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| |frk-core-01| 
 Tom O'Leary|US East (N. Virginia)|nov-to'leary| |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seo-core-01| 
 Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
