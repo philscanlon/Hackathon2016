@@ -80,7 +80,7 @@ Note - in the online setup guide  some of the defaults will need to be changed f
 Goal is to publish and subscribe to messages that follow the format: 
 
 `topicname : topic/geo`  
-`content : {"lat":"22.123456","lng":"118.123456","name":"Test"}'  
+`content : {"lat":"22.123456","lng":"118.123456","name":"Test"}`
 
 1.  download sample from https://github.com/SolaceSamples/
 2.  Modify the publisher to .....
