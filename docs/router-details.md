@@ -66,7 +66,7 @@ Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01|
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
-Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| |frk-core-01| 
+Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01| 
 Tom O'Leary|US East (N. Virginia)|nov-to'leary| |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seo-core-01| 
 Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
