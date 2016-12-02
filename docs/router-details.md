@@ -15,8 +15,8 @@ nov-core-02|7|Emily|34.193.115.74|nov-core-01|cal-core-01|frk-core-01
 seo-core-01|6|Aaron|52.78.245.158|sgp-core-01|ire-core-01|ohi-core-01
 ohi-core-01|5|Dishant| | | | 
 ire-core-01|5|David|52.31.220.231| | | 
-cal-core-01|4|Dishant|52.9.164.95| | | 
-frk-core-01|4|David|35.156.63.21| | | 
+cal-core-01|4|Dishant|52.9.164.95|frk-core-01 | | 
+frk-core-01|4|David|35.156.63.21|ire-core-01 | | 
 sgp-core-01|4|Phil| 52.220.157.193 | | | 
 syd-core-01|1|Vidhya| | | | 
 
