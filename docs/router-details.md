@@ -17,7 +17,7 @@ ohi-core-01|5|Dishant| | | |
 ire-core-01|5|David| | | | 
 cal-core-01|4|Dishant|52.9.164.95| | | 
 frk-core-01|4|David| | | | 
-sgp-core-01|4|Phil| | | | 
+sgp-core-01|4|Phil| 52.220.157.193 | | | 
 syd-core-01|1|Vidhya| | | | 
 
 
