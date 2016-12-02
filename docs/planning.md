@@ -30,11 +30,4 @@ Phase 4 | Global Demo |  All |  15th Dec | 2 hours all SC's online |
 4. Field created demo's - allow SC's to share a 5-10 minute asset they have created  
 5. Wrap up next steps  
 
-
-
-
-
-
-
-
-Planning has been moved.  Contact phil.scanlon@solace.com or David.Wray@solace.com for more info
+Detailed planning for the core team has been moved.  Contact phil.scanlon@solace.com or David.Wray@solace.com for more info
