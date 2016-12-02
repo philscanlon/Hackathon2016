@@ -48,8 +48,8 @@ Note - in the online setup guide  some of the defaults will need to be changed f
 
 ### Method 2
 
-
-* The AMI we will use is soltr-7.2.1.616-vmr-cloud-enterprise - __ami-297dde4a__.  You can find this by going to MY AMI's and selecting : __Ownership__ 
+1. Once you login and go to EC2, Click the Add Instance button
+2. The AMI we will use is soltr-7.2.1.616-vmr-cloud-enterprise.  You can find this by going to MY AMI's and selecting : __Ownership__ 
             - [x] Shared with me.
             
 ### Configuration details
