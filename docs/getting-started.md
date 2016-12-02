@@ -23,7 +23,9 @@ As part of the hackathon you will need to setup and use a couple of accounts.
 ### AWS
 You should have received a mail from IT with your solace AWS access credentials.  If you have not received this, contact: Jennifer Lynn ( <IT@solace.com> ).
 
-The Solace login landing page for AWS is here https://sol-aws-se.signin.aws.amazon.com/console
++The Solace login landing pages for AWS are:
+ +AWS SE : https://sol-aws-se.signin.aws.amazon.com/console
+ +AWS PSG: https://aws-psg.signin.aws.amazon.com/console
 
 _Once you login, be sure to select the nearest home region._
 
