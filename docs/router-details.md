@@ -10,8 +10,8 @@ See here for a guide on this process : https://github.com/philscanlon/Hackathon2
 
 **Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**Core Connection 1**|**Core Connection 2**|**Core Connection 3**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-nov-core-01|7|Emily| | | | 
-nov-core-02|7|Emily| | | | 
+nov-core-01|7|Emily|34.193.188.18|nov-core-02|ohi-core-01|ire-core-01 
+nov-core-02|7|Emily|34.193.115.74|nov-core-01|cal-core-01|frk-core-01 
 seo-core-01|6|Aaron|52.78.245.158|sgp-core-01|ire-core-01|ohi-core-01
 ohi-core-01|5|Dishant| | | | 
 ire-core-01|5|David| | | | 
@@ -42,7 +42,6 @@ Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01|
 Eric Sun|Asia Pacific (Seoul)|seo-esun| |seo-core-01| 
 Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |sgp-core-01| 
 Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon| |seo-core-01| 
-Floyd Davis|US East (N. Virginia)|nov-fdavis| |nov-core-01| 
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
 Ifoma Smart|US East (N. Virginia)|nov-ismart| |nov-core-01| 
 Jet Huang|Asia Pacific (Seoul)|seo-jhuang| |seo-core-01| 
