@@ -18,12 +18,13 @@ Phase 3 | regional execution | All | 6th till 13th Dec | |
 Phase 4 | Global Demo |  All |  15th Dec | 2 hours all SC's online |
 
 
-### Demo
+### Demo Webex
 
 * Format : Recorded webex.
 * 1 global 2 hour session suggestion
 * Timing 8-10pm singapore, 7-9am NY 11pm-1am australia 5-7am San Francisco
 
+#### Agenda
 1. Intros's stage setting etc - Sumeet / Denis  
 2. Breifing of the demo's we are going to run  
 3. Run through Demo's  
