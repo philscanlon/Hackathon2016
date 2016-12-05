@@ -34,3 +34,4 @@ Getting started and setup ... https://github.com/philscanlon/Hackathon2016/blob/
 
 ### Looking for :
 * the master list of the routers  https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
+* enough with the instructions, just give me the details of my VMR i need to create : https://github.com/philscanlon/Hackathon2016/blob/master/docs/vmr_details.md
