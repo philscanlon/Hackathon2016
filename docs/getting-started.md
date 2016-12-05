@@ -76,6 +76,8 @@ Note - in the online setup guide  some of the defaults will need to be changed f
 7. Create a CSPF neighbor rour to your buddy in your region.  as above.
 8. Using SolAdmin, connect to either your public IP or ElasticIP address
 
+To check if you can send messages to the mesh, visit this page : http://52.220.223.99/TopicSubscriber.html.  Any messages you publish should be reflected here.
+
 
 ## 4. Run the samples on your local machine
 
