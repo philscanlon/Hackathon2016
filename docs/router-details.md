@@ -50,7 +50,7 @@ John Filo|Asia Pacific (Sydney)|syd-jfilo| |syd-core-01|
 Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
 Ken Overton|US East (N. Virginia)|nov-koverton| |nov-core-02| 
 Luis Horna|US East (N. Virginia)|nov-lhorna| |nov-core-01| 
-Magali Boulet|EU (Frankfurt)|frk-mboulet| |frk-core-01| 
+Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01| 
 Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
 Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
