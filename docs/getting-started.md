@@ -86,11 +86,16 @@ Goal is to publish and subscribe to messages that follow the format:
 `topicname : topic/geo`  
 `content : {"lat":"22.123456","lng":"118.123456","name":"Test","otherAttributes":"whateverYouWant"}`
 
-1.  download sample from https://github.com/SolaceSamples/
-2.  Modify the publisher to .....
-3.  send a message in your local language as the payload.
+The payload should be in binary format.
 
-If you are not a developer,  dont worry - you can use the completed samples here ....
+1.  Download sample from https://github.com/SolaceSamples/
+2.  Modify the publisher to .....
+3.  Send a message in your local language as the payload.
+
+If you are not a developer,  sdkperf should work:
+
+1.  Save the payload to a file
+2.  Use the -pal option to sdkperf to send a message with the contents of the file as a binary attachment
 
 ## 5. ...
 
