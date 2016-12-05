@@ -27,6 +27,8 @@ Add your Router IP in the table. your first connection is mandatory, and will co
 
 Note - We have not put core routers in all the regions.   Your router that you create and and the routers you mesh with do not have to be in the same AWS region.
 
+Note 2 - If you are not in the list and are participating, contact phil.scanlon@solace.com
+
 **Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 Amit Gothecha|EU (Frankfurt)|frk-agothecha| |frk-core-01| 
