@@ -75,7 +75,7 @@ Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02|
 Wayne Sang|US East (N. Virginia)|nov-wsang| |nov-core-02| 
 
 # Link Costs:
-All links should be set to 100
+All links should be left at the default 100 for now.  This will be changed shortly once MNR mesh design is finalized.  (harass Aaron for more details).
 
 # Config
 
