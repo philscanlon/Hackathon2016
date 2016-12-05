@@ -67,24 +67,17 @@ Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02|
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
-Tom O'Leary|US East (N. Virginia)|nov-to'leary| |nov-core-02| 
+Tom O'Leary|US East (N. Virginia)|nov-toleary| |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seo-core-01| 
 Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
 Wayne Sang|US East (N. Virginia)|nov-wsang| |nov-core-02| 
 
 # Link Costs:
-
-<b>Note: should be symmetric!!</b>
-How to enforce??
-
-| Between | And | Cost |
-|---------|-----|------|
-| pscanlon-vmr | hkgsolaa01 | 30 |
-| hkgsolaa01 | DavidHackathon | 100 |
+All links should be set to 100
 
 # Config
 
-Rather than just use the defaults, we could tune a few things... practice!
+Rather than just use the defaults, we could tune a few things... practice (and agree with who you are connecting to)!
 
  - Enable compression on your neighbour links
    - Ensure port 55003 is exposed in AWS
