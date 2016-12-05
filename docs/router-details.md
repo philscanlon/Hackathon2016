@@ -50,7 +50,7 @@ John Filo|Asia Pacific (Sydney)|syd-jfilo| |syd-core-01|
 Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
 Ken Overton|US East (N. Virginia)|nov-koverton| |nov-core-02| 
 Luis Horna|US East (N. Virginia)|nov-lhorna| |nov-core-01| 
-Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01| 
+Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01|frk-tfairbairn|
 Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
 Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
@@ -66,7 +66,7 @@ Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01|
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
-Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01| 
+Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
 Tom O'Leary|US East (N. Virginia)|nov-to'leary| |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam| |seo-core-01| 
 Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
