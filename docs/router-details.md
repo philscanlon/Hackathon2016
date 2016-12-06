@@ -65,7 +65,8 @@ Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01|
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
 Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
-Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02| 
+Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02|
+Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan| |sgp-core-01| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
