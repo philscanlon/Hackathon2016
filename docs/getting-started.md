@@ -89,22 +89,25 @@ Goal is to publish and subscribe to messages that follow the format:
 The payload should be in binary format.
 
 1.  Download sample from https://github.com/SolaceSamples/
-2.  Modify the publisher to .....
-3.  Send a message in your local language as the payload.
+2.  Modify the publisher to send to the hackathon mesh
+3.  Send a message with the above format as the payload
 
-If you are not a developer,  sdkperf should work:
+If you are not a developer,  sdkperf can also be used:
 
 1.  Save the payload to a file
 2.  Use the -pal option to sdkperf to send a message with the contents of the file as a binary attachment
 
-## 5. ...
-
 ## Tips
-* AWS supports multiple zones, so when you login, or create an AMI, check you are in the correct region.
-* AWS SE account
+* AWS supports multiple zones, so when you login, or create an AMI, check you are in the correct region if you cannot find your instance
 * AWS Charges - elastic ip - up to $4/month per ip
 * AWS Charges - t2.medium - up to $8/week if left running
-* AWS Charges - Data transfer rates - to confirm / estimate.  Reccomend no heavy traffic testing between zones etc.
+* AWS Charges - Data transfer rates - please check before running load across the network - no heavy traffic testing between zones.
+
+## Frequest Gotcha's
+
+Area | Error | What's missing
+:-----:| :-----: | :-----: | 
+MNR | | |
 
 
 ## Tools
