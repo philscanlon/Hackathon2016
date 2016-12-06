@@ -7,6 +7,7 @@ Dont worry about making a mistake - your changes are reviewed before they are ad
 See here for a guide on this process : https://github.com/philscanlon/Hackathon2016/blob/master/docs/How-to-add-your-router-details.md
 
 ### Core Routers  - DO NOT Change
+These are the core mesh routers that will run for the duration of the Hackathon.  You have been allocvated 1 of these routers to connect to. (See Participant Router Table below).
 
 **Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**Core Connection 1**|**Core Connection 2**|**Core Connection 3**|**Core Connection 4**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
