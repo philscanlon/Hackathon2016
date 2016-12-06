@@ -8,17 +8,17 @@ See here for a guide on this process : https://github.com/philscanlon/Hackathon2
 
 ### Core Routers  - DO NOT Change
 
-**Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**Core Connection 1**|**Core Connection 2**|**Core Connection 3**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-nov-core-01|7|Emily|34.193.188.18|nov-core-02|ohi-core-01|ire-core-01 
-nov-core-02|7|Emily|34.193.115.74|nov-core-01|cal-core-01|frk-core-01 
-seo-core-01|6|Aaron|52.78.245.158|sgp-core-01|ire-core-01|ohi-core-01
-ohi-core-01|5|Dishant| | | | 
-ire-core-01|5|David|52.31.220.231|frk-core-01 |nov-core-01|seo-core-01
-cal-core-01|4|Dishant|52.9.164.95| | | 
-frk-core-01|4|David|35.156.63.21|ire-core-01 |sgp-core-01|nov-core-02
-sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01
-syd-core-01|1|Vidhya| 13.54.186.240 | | | 
+**Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**Core Connection 1**|**Core Connection 2**|**Core Connection 3**|**Core Connection 4**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+nov-core-01|7|Emily|34.193.188.18|nov-core-02|ohi-core-01|ire-core-01 |
+nov-core-02|7|Emily|34.193.115.74|nov-core-01|cal-core-01|frk-core-01 |
+seo-core-01|6|Aaron|52.78.245.158|sgp-core-01|ire-core-01|ohi-core-01|
+ohi-core-01|5|Dishant| | | | |
+ire-core-01|5|David|52.31.220.231|frk-core-01 |nov-core-01|seo-core-01|
+cal-core-01|4|Dishant|52.9.164.95| | | |
+frk-core-01|4|David|35.156.63.21|ire-core-01 |sgp-core-01|nov-core-02|
+sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01|
+syd-core-01|1|Vidhya| 13.54.186.240 | | | |
 
 
 ### Participant Routers - Enter your details below against your name
