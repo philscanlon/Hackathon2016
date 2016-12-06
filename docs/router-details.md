@@ -1,4 +1,4 @@
-Record the details of your router configuration in the table below.  If you have not used Github before, there are a number of steps to propose a change to this file:
+Record the details of your router configuration in the Participant Router table below.  If you have not used Github before, there are a number of steps to propose a change to this file:
 
 __Edit file >> Click 'Propose Changes' >> Click 'Create Pull request'__
 
