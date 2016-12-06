@@ -14,9 +14,9 @@ These are the core mesh routers that will run for the duration of the Hackathon.
 nov-core-01|7|Emily|34.193.188.18|nov-core-02|ohi-core-01|ire-core-01 |
 nov-core-02|7|Emily|34.193.115.74|nov-core-01|cal-core-01|frk-core-01 |
 seo-core-01|6|Aaron|52.78.245.158|sgp-core-01|ire-core-01|ohi-core-01|
-ohi-core-01|5|Dishant| | | | |
+ohi-core-01|5|Dishant|52.15.159.221|cal-core-01|nov-core-01| |
 ire-core-01|5|David|52.31.220.231|frk-core-01 |nov-core-01|seo-core-01|
-cal-core-01|4|Dishant|52.9.164.95| | | |
+cal-core-01|4|Dishant|52.9.164.95|ohi-core-01|nov-core-01|seo-core-01|
 frk-core-01|4|David|35.156.63.21|ire-core-01 |sgp-core-01|nov-core-02|
 sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01|
 syd-core-01|1|Vidhya| 13.54.186.240 | sin-core-01|seo-core-01 |nov-core-02 |
