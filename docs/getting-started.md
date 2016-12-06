@@ -64,7 +64,7 @@ Note - in the online setup guide  some of the defaults will need to be changed f
 
 ## 3. Configure your VMR to join the mesh
 
-1. Rename the hostname of your VMR, following the naming convention supplied to you (TBD)
+1. Rename the hostname of your VMR, following the naming convention in the router config above.
     - http://docs.solace.com/Configuring-and-Managing-Routers/Configuring-Host-Names.htm
 2. Create a global admin CLI user for you to use (don't use 'admin')... this would usually be your typical account name
 3. Create a global read-only CLI user, username='ro', password='hackathon'
