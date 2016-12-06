@@ -60,6 +60,7 @@ Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02|
 Mathew Hobbis|EU (Ireland)|ire-mhobbis| |ire-core-01| 
 Matthew Stobo|US East (Ohio)|ohi-mstobo| |ohi-core-01| 
 Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
+Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki| |seo-core-01| 
 Perry Krol|EU (Ireland)|ire-pkrol| |ire-core-01| 
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
