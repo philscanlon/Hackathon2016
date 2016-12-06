@@ -19,7 +19,7 @@ ire-core-01|5|David|52.31.220.231|frk-core-01 |nov-core-01|seo-core-01|
 cal-core-01|4|Dishant|52.9.164.95| | | |
 frk-core-01|4|David|35.156.63.21|ire-core-01 |sgp-core-01|nov-core-02|
 sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01|
-syd-core-01|1|Vidhya| 13.54.186.240 | | | |
+syd-core-01|1|Vidhya| 13.54.186.240 | sin-core-01|seo-core-01 |nov-core-02 |
 
 
 ### Participant Routers - Enter your details below against your name
