@@ -72,7 +72,7 @@ Note - in the online setup guide  some of the defaults will need to be changed f
     - Export Subscriptions
     - Basic Authentication --> Internal authentication
 5. Create a client-username to use, set the password (remember it!), and enable it
-6. Create a CSPF neighbor route to a core server in your region from the list. http://docs.solace.com/Features/Multi-Node-Routing.htm
+6. Create a CSPF neighbor route to a core server in your region from the list. http://docs.solace.com/Features/Multi-Node-Routing.htm  Use compressed route on port 55003.  Note - make sure this port is in your AWS security group (it is not one of the ports listed in the getting started in AWS Solace guide).
 7. Create a CSPF neighbor rour to your buddy in your region.  as above.
 8. Using SolAdmin, connect to either your public IP or ElasticIP address
 
