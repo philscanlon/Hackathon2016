@@ -6,7 +6,7 @@ Ready to get started?  Follow the sections below to get started with the basics.
 2. Create a VMR on Amazon Web Services
 3. Configure your VMR to join the mesh
 4. Run the samples on your local machine
-5. ...
+5. Hack away
 
 ## Where can you get help
 
@@ -96,6 +96,10 @@ If you are not a developer,  sdkperf can also be used:
 
 1.  Save the payload to a file
 2.  Use the -pal option to sdkperf to send a message with the contents of the file as a binary attachment
+
+## 5. Hack something new
+
+Optional - have a look here, or create something in your team : https://github.com/philscanlon/Hackathon2016/blob/master/docs/no-idea-too-silly.md
 
 ## Tips
 * AWS supports multiple zones, so when you login, or create an AMI, check you are in the correct region if you cannot find your instance
