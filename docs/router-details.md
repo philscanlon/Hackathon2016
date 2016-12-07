@@ -42,7 +42,7 @@ Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01|
 David Wray|EU (Ireland)|ire-dwray| |ire-core-01| 
 David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
 Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
-Eric Sun|Asia Pacific (Seoul)|seo-esun| |seo-core-01| 
+Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01| 
 Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |sgp-core-01| 
 Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon| |seo-core-01| 
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
