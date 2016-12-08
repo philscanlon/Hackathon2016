@@ -37,7 +37,7 @@ Andrew Broome|US East (N. Virginia)|nov-abroome| |nov-core-01|
 Arghya Sanyal|EU (Frankfurt)|frk-asanyal| |frk-core-01| 
 Benjamin Taieb|EU (Ireland)|ire-btaieb| |ire-core-01| 
 Christian Holtfurth|EU (Ireland)|ire-choltfurth| |ire-core-01| 
-Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01| 
+Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun 
 Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01| 
 David Wray|EU (Ireland)|ire-dwray| |ire-core-01| 
 David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
