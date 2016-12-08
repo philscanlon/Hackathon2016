@@ -52,7 +52,7 @@ Jim Lowe|US East (N. Virginia)|nov-jlowe|34.194.24.42|nov-core-01|
 John Filo|Asia Pacific (Sydney)|syd-jfilo| |syd-core-01| 
 Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
 Ken Overton|US East (N. Virginia)|nov-koverton|34.194.147.103|nov-core-02| 
-Luis Horna|US East (N. Virginia)|nov-lhorna| |nov-core-01| 
+Luis Horna|US East (N. Virginia)|nov-lhorna|34.194.107.123|nov-core-01| 
 Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01|frk-tfairbairn|
 Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
