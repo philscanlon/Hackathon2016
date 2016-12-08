@@ -1,6 +1,6 @@
 ## Enterprise stats
 
-*   Demo the product as it is confugured, and how we would demonatrate to a customer.  We can get some pretty cool screen recordings.
+*   Demo the product as it is configured, and how we would demonstrate to a customer.  We can get some pretty cool screen recordings.
   
 ## Building out the network
 *  Plot each person joining onto a log - see the network grow.  Show this at the end.
