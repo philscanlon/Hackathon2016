@@ -22,7 +22,7 @@ sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01|
 syd-core-01|1|Vidhya| 13.54.186.240 | sin-core-01|seo-core-01 |nov-core-02 |
 
 
-### Participant Routers - Enter your details below against your name
+3### Participant Routers - Enter your details below against your name
 
 Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
 
@@ -67,7 +67,7 @@ Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01|
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
 Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
-Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal| |nov-core-02|
+Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
 Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
