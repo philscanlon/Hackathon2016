@@ -22,4 +22,4 @@ Add some objects to the screen
   
 * Use the data being shared on the mesh in an interesting way
 
-* Going to try and put together a rudimentary chat app (DW)
+* Going to try and put together a rudimentary chat app - Done, now requires distibution etc.
