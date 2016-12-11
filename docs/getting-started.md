@@ -61,6 +61,7 @@ Note - in the online setup guide  some of the defaults will need to be changed f
 1. Setup an AWS VMR using the guide at http://docs.solace.com/Solace-VMR-Set-Up/Starting-VMRs-for-the-First-Time/Setting-Up-an-Eval-VMR-in-AWS.htm.
 2. Create an ElasticIP, and bind that to your VMR instance
 3. Once complete, enter your details in https://github.com/philscanlon/Hackathon2016/blob/master/docs/router-details.md
+4. (Optional) Add an ICMP echo request permit policy in your Security Group, so you can use ping to check the router's ElasticIP connectivity easily through internet.
 
 ## 3. Configure your VMR to join the mesh
 
