@@ -62,7 +62,7 @@ Matthew Stobo|US East (Ohio)|ohi-mstobo| |ohi-core-01|
 Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
 Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam 
-Perry Krol|EU (Ireland)|ire-pkrol| |ire-core-01| 
+Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01| 
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
