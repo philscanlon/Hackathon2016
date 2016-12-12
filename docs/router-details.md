@@ -39,12 +39,12 @@ Benjamin Taieb|EU (Ireland)|ire-btaieb| |ire-core-01|
 Christian Holtfurth|EU (Ireland)|ire-choltfurth| |ire-core-01| 
 Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun 
 Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01| 
-David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01| 
+David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|ire-pkrol 
 David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
 Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
 Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cching 
-Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |sgp-core-01| 
-Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon| |seo-core-01| 
+Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01| sgp-skoshal, sgp-srajgopalan
+Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01| 
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
 Ifoma Smart|US East (N. Virginia)|nov-ismart| |nov-core-01| 
 Jet Huang|Asia Pacific (Seoul)|seo-jhuang|52.220.234.177|seo-core-01|seo-esun
@@ -58,12 +58,12 @@ Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01|
 Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
 Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
 Mathew Hobbis|EU (Ireland)|ire-mhobbis| |ire-core-01| 
-Matthew Stobo|US East (Ohio)|ohi-mstobo| |ohi-core-01| 
+Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01| 
 Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
 Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
-Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki| |seo-core-01| 
 Paul Woodward|EU (Ireland)|ire-pwoodward|52.211.196.205 |ire-core-01| 
-Perry Krol|EU (Ireland)|ire-pkrol| |ire-core-01| 
+Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam,seo-eyoon  
+Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
@@ -71,11 +71,11 @@ Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01|
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
 Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
-Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
+Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| 52.220.165.194 |sgp-core-01| sgp-easuncion
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
-Tom O'Leary|US East (N. Virginia)|nov-toleary| |nov-core-02| 
+Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01| 
-Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
+Wayne Osse|US East (N. Virginia)|nov-wosse|34.194.185.22|nov-core-02| 
 Wayne Sang|US East (N. Virginia)|nov-wsang| |nov-core-02| 
 
 # Link Costs:
