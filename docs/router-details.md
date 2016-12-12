@@ -35,8 +35,6 @@ Note 2 - If you are not in the list and are participating, contact phil.scanlon@
 Amit Gothecha|EU (Frankfurt)|frk-agothecha| |frk-core-01| 
 Andrew Broome|US East (N. Virginia)|nov-abroome| |nov-core-01| 
 Arghya Sanyal|EU (Frankfurt)|frk-asanyal| |frk-core-01| 
-Benjamin Taieb|EU (Ireland)|ire-btaieb| |ire-core-01| 
-Christian Holtfurth|EU (Ireland)|ire-choltfurth| |ire-core-01| 
 Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun 
 Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01| 
 David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|ire-pkrol 
@@ -57,7 +55,6 @@ Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01|frk-tfairbair
 Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
 Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
-Mathew Hobbis|EU (Ireland)|ire-mhobbis| |ire-core-01| 
 Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01| 
 Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
 Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
