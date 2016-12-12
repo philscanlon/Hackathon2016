@@ -21,8 +21,7 @@ frk-core-01|4|David|35.156.63.21|ire-core-01 |sgp-core-01|nov-core-02|
 sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01|
 syd-core-01|1|Vidhya| 13.54.186.240 | sin-core-01|seo-core-01 |nov-core-02 |
 
-
-3### Participant Routers - Enter your details below against your name
+### Participant Routers - Enter your details below against your name
 
 Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
 
