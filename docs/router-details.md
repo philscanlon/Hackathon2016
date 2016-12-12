@@ -43,7 +43,7 @@ David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|
 David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
 Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
 Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cching 
-Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01|sgp-srajgopalan
+Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01| sgp-skoshal, sgp-srajgopalan
 Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01| 
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
 Ifoma Smart|US East (N. Virginia)|nov-ismart| |nov-core-01| 
@@ -70,7 +70,7 @@ Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01|
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
 Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
-Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
+Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| 52.220.165.194 |sgp-core-01| sgp-easuncion
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
 Tom O'Leary|US East (N. Virginia)|nov-toleary| |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01| 
