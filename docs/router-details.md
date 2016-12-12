@@ -39,7 +39,7 @@ Benjamin Taieb|EU (Ireland)|ire-btaieb| |ire-core-01|
 Christian Holtfurth|EU (Ireland)|ire-choltfurth| |ire-core-01| 
 Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun 
 Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01| 
-David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01| 
+David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|ire-pkrol 
 David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
 Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
 Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cching 
@@ -62,7 +62,7 @@ Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01|
 Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
 Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam 
-Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01| 
+Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
