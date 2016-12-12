@@ -43,7 +43,7 @@ David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|
 David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
 Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
 Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cching 
-Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion| |sgp-core-01| 
+Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01|sgp-srajgopalan
 Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01| 
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
 Ifoma Smart|US East (N. Virginia)|nov-ismart| |nov-core-01| 
