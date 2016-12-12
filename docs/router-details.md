@@ -74,7 +74,7 @@ Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| 52.220.165.194 |sgp-core-01|
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
 Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01| 
-Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
+Wayne Osse|US East (N. Virginia)|nov-wosse|34.194.185.22|nov-core-02| 
 Wayne Sang|US East (N. Virginia)|nov-wsang| |nov-core-02| 
 
 # Link Costs:
