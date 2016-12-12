@@ -45,7 +45,7 @@ Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01|
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
 Jet Huang|Asia Pacific (Seoul)|seo-jhuang|52.220.234.177|seo-core-01|seo-esun
 Jim Lowe|US East (N. Virginia)|nov-jlowe|34.194.24.42|nov-core-01| 
-John Filo|Asia Pacific (Sydney)|syd-jfilo| |syd-core-01| 
+John Filo|Asia Pacific (Sydney)|syd-jfilo|13.55.6.89|syd-core-01| 
 Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
 Ken Overton|US East (N. Virginia)|nov-koverton|34.194.147.103|nov-core-02| 
 Luis Horna|US East (N. Virginia)|nov-lhorna|34.194.107.123|nov-core-01| 
