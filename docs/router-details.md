@@ -47,7 +47,7 @@ Jet Huang|Asia Pacific (Seoul)|seo-jhuang|52.220.234.177|seo-core-01|seo-esun
 Jim Lowe|US East (N. Virginia)|nov-jlowe|34.194.24.42|nov-core-01| 
 John Filo|Asia Pacific (Sydney)|syd-jfilo|13.55.6.89|syd-core-01| 
 Ken Overton|US East (N. Virginia)|nov-koverton|34.194.147.103|nov-core-02| 
-Luis Horna|US East (N. Virginia)|nov-lhorna|34.194.107.123|nov-core-01| 
+Luis Horna|US East (N. Virginia)|nov-lhorna|34.194.107.123|nov-core-01|nov-jlowe, nov-mobrien, nov-snagpal 
 Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01|frk-tfairbairn|
 Mahesh Kaleru|US East (Ohio)|ohi-mkaleru|52.15.163.152|ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno|52.52.200.6|cal-core-01| 
