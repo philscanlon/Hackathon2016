@@ -85,9 +85,11 @@ To check if you can send messages to the mesh, visit this page : http://52.220.2
 Goal is to publish and subscribe to messages that follow the format: 
 
 `destination topic: topic/geo`  
-`payload: {"lat":"22.123456","lng":"118.123456","name":"Test","message":"hi there!","otherAttributes":"whateverYouWant"}`
+`payload: {"lat":"12.345678","lng":"123.456789","name":"Test","message":"hi there!","otherAttributes":"whateverYouWant"}`
 
 The payload should be in __*binary format*__.  Attach a UTF-8 string as a string of bytes to the payload.
+
+**Don't know your lat/long?**  Google Maps knows... find yourself on Maps and right-click that spot and click on "What's here?"
 
 1.  Download sample from https://github.com/SolaceSamples/
 2.  Modify the publisher to send to the hackathon mesh
