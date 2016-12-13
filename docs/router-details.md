@@ -56,11 +56,11 @@ Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02|
 Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01| 
 Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
 Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
-Paul Woodward|EU (Ireland)|ire-pwoodward|52.211.196.205 |ire-core-01| 
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam,seo-eyoon  
+Paul Woodward|EU (Ireland)|ire-pwoodward|52.211.196.205 |ire-core-01| 
 Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
-Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
+Ramesh Natarajan|US West (Oregon)|ore-rnatarajan|35.165.12.105|cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| 54.254.159.145 |sgp-core-01| 
 Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
@@ -72,7 +72,6 @@ Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02|
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01|seo-nmatsuki|
 Wayne Osse|US East (N. Virginia)|nov-wosse|34.194.185.22|nov-core-02| 
 Wayne Sang|US East (N. Virginia)|nov-wsang|34.194.228.31|nov-core-02| 
-Ramesh Natarajan|US West (Oregon)|ore-rnatarajan|35.165.12.105|cal-core-01| 
 
 
 # Link Costs:
