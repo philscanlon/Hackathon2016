@@ -21,8 +21,7 @@ frk-core-01|4|David|35.156.63.21|ire-core-01 |sgp-core-01|nov-core-02|
 sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01|
 syd-core-01|1|Vidhya| 13.54.186.240 | sin-core-01|seo-core-01 |nov-core-02 |
 
-
-3### Participant Routers - Enter your details below against your name
+### Participant Routers - Enter your details below against your name
 
 Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
 
@@ -44,10 +43,9 @@ Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cc
 Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01| sgp-skoshal, sgp-srajgopalan
 Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01| 
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
-Ifoma Smart|US East (N. Virginia)|nov-ismart| |nov-core-01| 
 Jet Huang|Asia Pacific (Seoul)|seo-jhuang|52.220.234.177|seo-core-01|seo-esun
 Jim Lowe|US East (N. Virginia)|nov-jlowe|34.194.24.42|nov-core-01| 
-John Filo|Asia Pacific (Sydney)|syd-jfilo| |syd-core-01| 
+John Filo|Asia Pacific (Sydney)|syd-jfilo|13.55.6.89|syd-core-01| 
 Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
 Ken Overton|US East (N. Virginia)|nov-koverton|34.194.147.103|nov-core-02| 
 Luis Horna|US East (N. Virginia)|nov-lhorna|34.194.107.123|nov-core-01| 
@@ -63,17 +61,19 @@ Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vl
 Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
 Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
-Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| |sgp-core-01| 
+Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| 54.254.159.145 |sgp-core-01| 
 Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
 Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
-Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
+Steve Chan|Asia Pacific (Singapore)|sgp-schan|52.220.228.53|sgp-core-01|sgp-easuncion
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| 52.220.165.194 |sgp-core-01| sgp-easuncion
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
 Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01|seo-nmatsuki|
 Wayne Osse|US East (N. Virginia)|nov-wosse|34.194.185.22|nov-core-02| 
 Wayne Sang|US East (N. Virginia)|nov-wsang| |nov-core-02| 
+Ramesh Natarajan|US West (Oregon)|ore-rnatarajan|35.165.12.105|cal-core-01| 
+
 
 # Link Costs:
 All links should be left at the default 100 for now.  This will be changed shortly once MNR mesh design is finalized.  (harass Aaron for more details).
