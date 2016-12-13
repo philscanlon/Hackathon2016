@@ -65,7 +65,7 @@ Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| 54.254.159.145 |sgp-core-01|
 Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
 Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
-Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
+Steve Chan|Asia Pacific (Singapore)|sgp-schan|52.220.228.53|sgp-core-01|sgp-easuncion
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| 52.220.165.194 |sgp-core-01| sgp-easuncion
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
 Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02| 
