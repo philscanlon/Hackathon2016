@@ -41,7 +41,7 @@ David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01|
 Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
 Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cching 
 Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01| sgp-skoshal, sgp-srajgopalan
-Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01| 
+Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01|seo-nmatsuki, seo-jhuang
 Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
 Jet Huang|Asia Pacific (Seoul)|seo-jhuang|52.220.234.177|seo-core-01|seo-esun
 Jim Lowe|US East (N. Virginia)|nov-jlowe|34.194.24.42|nov-core-01| 
