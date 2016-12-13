@@ -87,7 +87,7 @@ Goal is to publish and subscribe to messages that follow the format:
 `destination topic: topic/geo`  
 `payload: {"lat":"12.345678","lng":"123.456789","name":"Test","message":"hi there!","otherAttributes":"whateverYouWant"}`
 
-The payload should be in __*binary format*__.  Attach a UTF-8 string as a string of bytes to the payload.
+The payload should be in __*binary format*__.  Attach a UTF-8 string as a bunch of bytes to the payload.
 
 **Don't know your lat/long?**  Google Maps knows... find yourself on Maps and right-click that spot and click on "What's here?"
 
