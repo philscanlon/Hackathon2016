@@ -34,6 +34,7 @@ Note 2 - If you are not in the list and are participating, contact phil.scanlon@
 Amit Gothecha|EU (Frankfurt)|frk-agothecha| |frk-core-01| 
 Andrew Broome|US East (N. Virginia)|nov-abroome| |nov-core-01| 
 Arghya Sanyal|EU (Frankfurt)|frk-asanyal| |frk-core-01| 
+Bill Romano|US West (Oregon)|org-bromano| | |
 Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun, seo-vlam 
 Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01| 
 David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|ire-pkrol 
