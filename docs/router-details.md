@@ -1,32 +1,86 @@
+Record the details of your router configuration in the Participant Router table below.  If you have not used Github before, there are a number of steps to propose a change to this file:
 
+__Edit file >> Click 'Propose Changes' >> Click 'Create Pull request'__
 
+Dont worry about making a mistake - your changes are reviewed before they are added into the master version.  If your change is not reflected within 12 hours, please contact your regional Lead.  __The most common mistake is skipping the last step: 'Create Pull Request'.__
 
-Record the details of your config here.
+See here for a guide on this process : https://github.com/philscanlon/Hackathon2016/blob/master/docs/How-to-add-your-router-details.md
 
-VPN Name: `hackathon`
+### Core Routers  - DO NOT Change
+These are the core mesh routers that will run for the duration of the Hackathon.  You have been allocvated 1 of these routers to connect to. (See Participant Router Table below).
 
-| Name | Location  | Router_IP  |  RouterName |AWS Region | Notes  |
-|------|-----------|------------|-------------|--------|----------|
-| Phil Scanlon | Singapore | 52.220.223.99  | pscanlon-core | Asia Pacific (Singapore) | |
-| Phil Scanlon | Singapore | 52.220.111.223 | pscanlon-sc   | Asia Pacific (Singapore) | |
-| David Wray | London | 52.31.220.231 | DavidHackathon   | EU (Ireland) | |
-| Aaron Lee | Hong Kong | 52.78.245.158 | hkgsolaa01 | AP NE (Seoul) | |
-| Vidyadhar Kothekar | Sydney | 13.54.186.240  | Vidya-VMR-Sydney | Asia Pacific (Sydney) | |
+**Router Name**|**Number of Participants**|**Owner**|**IPAddress**|**Core Connection 1**|**Core Connection 2**|**Core Connection 3**|**Core Connection 4**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+nov-core-01|7|Emily|34.193.188.18|nov-core-02|ohi-core-01|ire-core-01 |
+nov-core-02|7|Emily|34.193.115.74|nov-core-01|cal-core-01|frk-core-01 |
+seo-core-01|6|Aaron|52.78.245.158|sgp-core-01|ire-core-01|ohi-core-01|
+ohi-core-01|5|Dishant|52.15.159.221|cal-core-01|nov-core-01| |
+ire-core-01|5|David|52.31.220.231|frk-core-01 |nov-core-01|seo-core-01|
+cal-core-01|4|Dishant|52.9.164.95|ohi-core-01|nov-core-01|seo-core-01|
+frk-core-01|4|David|35.156.63.21|ire-core-01 |sgp-core-01|nov-core-02|
+sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01|
+syd-core-01|1|Vidhya| 13.54.186.240 | sin-core-01|seo-core-01 |nov-core-02 |
+
+### Participant Routers - Enter your details below against your name
+
+Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
+
+Note - We have not put core routers in all the regions.   Your router that you create and and the routers you mesh with do not have to be in the same AWS region.
+
+Note 2 - If you are not in the list and are participating, contact phil.scanlon@solace.com
+
+**Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+Amit Gothecha|EU (Frankfurt)|frk-agothecha| |frk-core-01| 
+Andrew Broome|US East (N. Virginia)|nov-abroome| |nov-core-01| 
+Arghya Sanyal|EU (Frankfurt)|frk-asanyal| |frk-core-01| 
+Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun 
+Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01| 
+David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|ire-pkrol 
+David Pochopsky|US East (N. Virginia)|nov-dpochopsky| |nov-core-01| 
+Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
+Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cching 
+Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01| sgp-skoshal, sgp-srajgopalan
+Eunsuk Yoon|Asia Pacific (Seoul)|seo-eyoon|52.78.205.88|seo-core-01| 
+Heinz Schaffner|US East (Ohio)|ohi-hschaffner| |ohi-core-01| 
+Jet Huang|Asia Pacific (Seoul)|seo-jhuang|52.220.234.177|seo-core-01|seo-esun
+Jim Lowe|US East (N. Virginia)|nov-jlowe|34.194.24.42|nov-core-01| 
+John Filo|Asia Pacific (Sydney)|syd-jfilo|13.55.6.89|syd-core-01| 
+Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
+Ken Overton|US East (N. Virginia)|nov-koverton|34.194.147.103|nov-core-02| 
+Luis Horna|US East (N. Virginia)|nov-lhorna|34.194.107.123|nov-core-01| 
+Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01|frk-tfairbairn|
+Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
+Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
+Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
+Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01| 
+Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
+Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
+Paul Woodward|EU (Ireland)|ire-pwoodward|52.211.196.205 |ire-core-01| 
+Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam,seo-eyoon  
+Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
+Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
+Ramesh Natarajan|US West (N. California)|cal-rnatarajan| |cal-core-01| 
+Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| 54.254.159.145 |sgp-core-01| 
+Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
+Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
+Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
+Steve Chan|Asia Pacific (Singapore)|sgp-schan|52.220.228.53|sgp-core-01|sgp-easuncion
+Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| 52.220.165.194 |sgp-core-01| sgp-easuncion
+Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
+Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02| 
+Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01|seo-nmatsuki|
+Wayne Osse|US East (N. Virginia)|nov-wosse|34.194.185.22|nov-core-02| 
+Wayne Sang|US East (N. Virginia)|nov-wsang|34.194.228.31|nov-core-02| 
+Ramesh Natarajan|US West (Oregon)|ore-rnatarajan|35.165.12.105|cal-core-01| 
 
 
 # Link Costs:
-
-<b>Note: should be symmetric!!</b>
-How to enforce??
-
-| Between | And | Cost |
-|---------|-----|------|
-| pscanlon-sc | hkgsolaa01 | 30 |
-| hkgsolaa01 | DavidHackathon | 100 |
+All links should be left at the default 100 for now.  This will be changed shortly once MNR mesh design is finalized.  (harass Aaron for more details).
 
 # Config
 
-Rather than just use the defaults, we could tune a few things... practice!
+Rather than just use the defaults, we could tune a few things... practice (and agree with who you are connecting to)!
 
  - Enable compression on your neighbour links
    - Ensure port 55003 is exposed in AWS
@@ -36,4 +90,6 @@ Rather than just use the defaults, we could tune a few things... practice!
  - Tune the CSPF NAB queues if you really want
    - max-length = 40000
    - min-burst = 500
+
+
 
