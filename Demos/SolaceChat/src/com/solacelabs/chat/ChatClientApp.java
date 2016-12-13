@@ -416,6 +416,9 @@ public class ChatClientApp {
 		};
 		idleTimer =  new Timer(IDLE_TIME, idleListener);
 		idleTimer.setRepeats(false);
+		
+		// enable auto scroll on the public tab by default
+		enableAutoScroll(true);
 	}
 
 	protected void removePrivateChat(String Handle, int index) {
