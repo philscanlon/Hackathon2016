@@ -84,16 +84,16 @@ To check if you can send messages to the mesh, visit this page : http://52.220.2
 
 Goal is to publish and subscribe to messages that follow the format: 
 
-`topicname : topic/geo`  
-`content : {"lat":"22.123456","lng":"118.123456","name":"Test","otherAttributes":"whateverYouWant"}`
+`destination topic: 'topic/geo'`  
+`payload: '{"lat":"22.123456","lng":"118.123456","name":"Test","otherAttributes":"whateverYouWant"}'`
 
-The payload should be in binary format.
+The payload should be in __*binary format*__.  Attach a UTF-8 string as a string of bytes to the payload.
 
 1.  Download sample from https://github.com/SolaceSamples/
 2.  Modify the publisher to send to the hackathon mesh
 3.  Send a message with the above format as the payload
 
-If you are not a developer,  sdkperf can also be used:
+If you are not a developer,  SDKPerf can also be used:
 
 1.  Save the payload to a file
 2.  Use the -pal option to sdkperf to send a message with the contents of the file as a binary attachment
