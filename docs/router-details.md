@@ -50,7 +50,7 @@ Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02|
 Ken Overton|US East (N. Virginia)|nov-koverton|34.194.147.103|nov-core-02| 
 Luis Horna|US East (N. Virginia)|nov-lhorna|34.194.107.123|nov-core-01| 
 Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01|frk-tfairbairn|
-Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
+Mahesh Kaleru|US East (Ohio)|ohi-mkaleru|52.15.163.152|ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno|52.52.200.6|cal-core-01| 
 Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
 Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01| 
