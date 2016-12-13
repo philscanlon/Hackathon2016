@@ -90,6 +90,7 @@ Goal is to publish and subscribe to messages that follow the format:
 The payload should be in __*binary format*__.  Attach a UTF-8 string as a bunch of bytes to the payload.
 
 **Don't know your lat/long?**  Google Maps knows... find yourself on Maps and right-click that spot and click on "What's here?"
+Or try this: https://ctrlq.org/maps/where/ 
 
 1.  Download sample from https://github.com/SolaceSamples/
 2.  Modify the publisher to send to the hackathon mesh
