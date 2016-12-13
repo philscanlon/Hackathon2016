@@ -60,7 +60,7 @@ Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
 Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
 Ramesh Natarajan|US West (Oregon)|ore-rnatarajan|35.165.12.105|cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| 54.254.159.145 |sgp-core-01| 
-Rodrigo Abreu|US East (Ohio)|ohi-rabreu|34.194.203.55|ohi-core-01| 
+Rodrigo Abreu|US East (Ohio)|ohi-rabreu|52.15.163.145|ohi-core-01| 
 Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
 Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan|52.220.228.53|sgp-core-01|sgp-easuncion
