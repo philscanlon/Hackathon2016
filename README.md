@@ -2,6 +2,13 @@
 
 We are bringing the gang together to create a globally connected mesh network based on amazon VMR's.  Along the way we will share some details from our location and showcase these in a webex at the end of the hackathon.
 
+## Hackathon links
+
+* Solace Chat App : https://github.com/philscanlon/Hackathon2016/tree/master/Demos/SolaceChat
+* Where to upload your soladmin network screenshot : https://solace.box.com/s/g3f7f8hptnnis35yxiqk35n3tea23jof
+* Video Streaming : https://github.com/philscanlon/Hackathon2016/blob/master/Demos/video/readme.md
+* RTView Daskboard : http://sandbox-35-130.slsandbox.com/rtview-solmon/panels.jsp?file=solmon_panels.xml
+
 ### Vital Information
 
 __When:__ The hackathon kicks off during the week of 5th December and will culminate on a global SC Call on the 15th december rolling through the demo around the world.
