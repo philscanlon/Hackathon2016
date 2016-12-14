@@ -66,6 +66,7 @@ Sanjeev Nagpal|US East (N. Virginia)|nov-snagpal|34.194.157.118|nov-core-02|
 Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-core-01|sgp-rshieh| 
 Steve Chan|Asia Pacific (Singapore)|sgp-schan|52.220.228.53|sgp-core-01|sgp-easuncion
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| 52.220.165.194 |sgp-core-01| sgp-easuncion
+Sumeet Puri|Asia Pacific (Singapore)|sgp-spuri| 52.221.0.153 |sgp-core-01| 
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
 Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02| 
 Vijay George|US East (N. Virginia)|nov-vgeorge||nov-core-01||
