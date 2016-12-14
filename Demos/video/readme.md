@@ -1,5 +1,5 @@
 
-# during the hackathon you can receive a video stream
+# During the hackathon you can receive a live video stream
 
 Download the project here: https://github.com/roberthsieh/broadcastme
 
