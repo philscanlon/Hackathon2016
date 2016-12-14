@@ -32,7 +32,7 @@ Note 2 - If you are not in the list and are participating, contact phil.scanlon@
 **Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 Amit Gothecha|EU (Frankfurt)|syd-agothecha|13.54.144.32|frk-core-01| 
-Andrew Broome|US East (N. Virginia)|nov-abroome|34.192.252.105|nov-core-01| 
+Andrew Broome|US East (N. Virginia)|nov-abroome|34.192.252.105|nov-core-01| nov-mobrien
 Arghya Sanyal|EU (Frankfurt)|frk-asanyal|35.156.24.107|frk-core-01||
 Bill Romano|US West (Oregon)|ore-bromano|35.162.16.191|cal-core-01|
 Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun, seo-vlam 
@@ -54,7 +54,7 @@ Mahesh Kaleru|US East (Ohio)|ohi-mkaleru|52.15.163.152|ohi-core-01|
 Manuel Moreno|US West (N. California)|cal-mmoreno|52.52.200.6|cal-core-01| 
 Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01| 
 Michael Hilmen|US West (N. California)|cal-mhilmen|52.9.225.143|cal-core-01| 
-Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
+Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|nov-abroome
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam,seo-eyoon  
 Paul Woodward|EU (Ireland)|ire-pwoodward|52.211.196.205 |ire-core-01| 
 Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
