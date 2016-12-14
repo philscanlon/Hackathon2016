@@ -53,7 +53,7 @@ Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01|frk-tfairbair
 Mahesh Kaleru|US East (Ohio)|ohi-mkaleru|52.15.163.152|ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno|52.52.200.6|cal-core-01| 
 Matthew Stobo|US East (Ohio)|ohi-mstobo|52.15.82.188|ohi-core-01| 
-Michael Hilmen|US West (N. California)|cal-mhilmen| |cal-core-01| 
+Michael Hilmen|US West (N. California)|cal-mhilmen|52.9.225.143|cal-core-01| 
 Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam,seo-eyoon  
 Paul Woodward|EU (Ireland)|ire-pwoodward|52.211.196.205 |ire-core-01| 
