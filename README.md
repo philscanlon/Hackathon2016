@@ -4,10 +4,14 @@ We are bringing the gang together to create a globally connected mesh network ba
 
 ## Hackathon links
 
+Quickly get to where you need to go on the call
+
 * Solace Chat App : https://github.com/philscanlon/Hackathon2016/tree/master/Demos/SolaceChat
-* Where to upload your soladmin network screenshot : https://solace.box.com/s/g3f7f8hptnnis35yxiqk35n3tea23jof
+* Upload a soladmin screenshot : https://solace.box.com/s/g3f7f8hptnnis35yxiqk35n3tea23jof
 * Video Streaming : https://github.com/philscanlon/Hackathon2016/blob/master/Demos/video/readme.md
 * RTView Daskboard : http://sandbox-35-130.slsandbox.com/rtview-solmon/panels.jsp?file=solmon_panels.xml
+* Core message reflector: http://52.220.223.99/TopicSubscriber.html
+
 
 ### Vital Information
 
