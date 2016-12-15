@@ -31,7 +31,7 @@ Note 2 - If you are not in the list and are participating, contact phil.scanlon@
 
 **Name**|**AWS Region**|**Router Name**|**Router IP**|**Connection 1**|**Connection 2**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-Amit Gothecha|EU (Frankfurt)|syd-agothecha|13.54.144.32|frk-core-01| 
+Amit Gothecha|Asia Pacific (Sydney)|syd-agothecha|13.54.144.32|syd-core-01| 
 Andrew Broome|US East (N. Virginia)|nov-abroome|34.192.252.105|nov-core-01| nov-mobrien
 Arghya Sanyal|EU (Frankfurt)|frk-asanyal|35.156.24.107|frk-core-01||
 Bill Romano|US West (Oregon)|ore-bromano|35.162.16.191|cal-core-01|
