@@ -39,7 +39,7 @@ Clarence Ching|Asia Pacific (Seoul)|seo-cching|52.78.228.97|seo-core-01|seo-esun
 Dale Baik|US West (Oregon)|ore-dbaik|35.163.187.180|cal-core-01| 
 David Wray|EU (Ireland)|ire-dwray|52.214.106.216 |ire-core-01|ire-pkrol 
 David Pochopsky|US East (N. Virginia)|nov-dpochopsky|23.23.29.71|nov-core-01|nov-snagpal
-Denis King|US East (N. Virginia)|nov-dking||nov-core-02|
+Denis King|US East (N. Virginia)|nov-denisking|34.195.12.20 |nov-core-02|
 Dmitri Fedorov|US East (N. Virginia)|nov-dfedorov| |nov-core-01| 
 Eric Sun|Asia Pacific (Seoul)|seo-esun|52.79.76.80|seo-core-01|seo-jhuang,seo-cching 
 Eric Asuncion|Asia Pacific (Singapore)|sgp-easuncion|52.220.228.15|sgp-core-01| sgp-skoshal, sgp-srajgopalan
