@@ -2,7 +2,7 @@
 
 We are bringing the gang together to create a globally connected mesh network based on amazon VMR's.  Along the way we will share some details from our location and showcase these in a webex at the end of the hackathon.
 
-## Hackathon links
+##  links
 
 Quickly get to where you need to go on the call
 
@@ -12,6 +12,19 @@ Quickly get to where you need to go on the call
 * RTView Daskboard : http://sandbox-35-130.slsandbox.com/rtview-solmon/panels.jsp?file=solmon_panels.xml
 * Core message reflector: http://52.220.223.99/TopicSubscriber.html
 
+## Timeline
+
+**Start**|**Duration**|**End**|**Section**|**Presenter**
+:-----:|:-----:|:-----:|:-----:|:-----:
+0:00|10|0:10|Intro|Denis / Sumeet / Phil
+0:10|10|0:20|Chat App|David
+0:20|15|0:35|Getting the world online|Aaron
+0:35|15|0:50|Solace global Wave|Aaron
+0:50|10|1:00|Global Message Flow|Aaron/Phil
+1:00|10|1:10|Enterprise Stats|Mike O'Brian
+1:10|10|1:20|RTView|RTView
+1:20|10|1:30|Global Video distribution|Phil
+1:30|10|1:40|Summary and Wrap up.|Denis / Sumeet / Phil
 
 ### Vital Information
 
