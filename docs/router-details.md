@@ -72,7 +72,7 @@ Tom O'Leary|US East (N. Virginia)|nov-toleary| 54.158.255.186 |nov-core-02|
 Vijay George|US East (N. Virginia)|nov-vgeorge|34.194.114.67|nov-core-01||
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01|seo-nmatsuki|
 Wayne Osse|US East (N. Virginia)|nov-wosse|34.194.185.22|nov-core-02| 
-Wayne Sang|US East (N. Virginia)|nov-wsang|34.194.228.31|nov-core-02| 
+Wayne Sang|US East (N. Virginia)|nov-wsang|34.194.228.31|nov-core-02|nov-wosse|
 
 
 # Link Costs:
